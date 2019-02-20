@@ -7,11 +7,9 @@ turning off the computer in two hours.
 This is a hobby project of mine and it is ready for real-world use.
 I will not accept pull requests.
 
-![alt text](screenshot-addTask1.png "Adding a task")
+![alt text](screenshot-addTask.png "Adding a task")
 
-![alt text](screenshot-addTask2.png "Adding another task")
-
-![alt text](screenshot-taskList1.png "Main window of Task Automator")
+![alt text](screenshot-taskList.png "Main window of Task Automator")
 
 # License
 
