@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>TaskAutomator16x16.png</file>
+        <file>TaskAutomator96x96.png</file>
+        <file>qt_pt.qm</file>
+        <file>taskautomator_pt.qm</file>
+    </qresource>
+</RCC>
